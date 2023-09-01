@@ -15,10 +15,10 @@ App listado, detalle y correo de Super Heroes prueba de certificación
          [x] Dao (es una interface)
          [] DetalleEntity
     [] Remote:
-         [] DataClass
+         [x] DataClass
          [] Detalle DataClass
-         [] API (es una interface)
-         [] RetroFit
+         [x] API (es una interface)
+         [x] RetroFit
     []Repository
 [] View
 
