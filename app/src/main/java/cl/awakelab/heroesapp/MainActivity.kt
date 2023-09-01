@@ -10,9 +10,9 @@ App listado, detalle y correo de Super Heroes prueba de certificación
 [x] Se creó la estructura de paquetes: data(local y remote) y view(correspondiente a la presentación)
 [] Data:
     [] Local:
-         [] DataBase
-         [] Entity
-         [] Dao (es una interface)
+         [x] DataBase
+         [x] Entity
+         [x] Dao (es una interface)
          [] DetalleEntity
     [] Remote:
          [] DataClass
