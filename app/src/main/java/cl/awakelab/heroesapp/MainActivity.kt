@@ -19,8 +19,11 @@ App listado, detalle y correo de Super Heroes prueba de certificación
          [] Detalle DataClass
          [x] API (es una interface)
          [x] RetroFit
-    []Repository
+    [x]Repository
 [] View
+    [x]ListFragment
+    [x]ViewModel
+    []Adapter
 
 []Main Activity
 [] 2 pantallas:
